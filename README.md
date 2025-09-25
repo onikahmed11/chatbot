@@ -1,6 +1,5 @@
 # chatbot
-// Oni Ibna Kamal, Saied Ahmmad
-
+// Oni Ibna Kamal
 #lang racket
 
 (require web-server/servlet
